@@ -1,4 +1,23 @@
 h1 {
   font-size: 30px;
   color: aqua;
+  text-align: center;
+}
+button {
+  border-radius: 5px;
+  margin: 20px auto;
+  display: block;
+  background-color: #fff;
+  border: 1px solid #aa7100;
+  color: #e99549;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 10px;
+  transition: all 200ms ease;
+  cursor: pointer;
+  width: 115px;
+}
+img {
+  display: block;
+  margin: 0 auto;
 }
